@@ -1,5 +1,6 @@
 # Technical TODOs
 
+- Change the DE selection to be without replacement.
 - create a prng object / instance to facilitate reproducibility
 - unit tests
 - parallel fitness evaluation
@@ -13,5 +14,5 @@
 # Research TODOs
 
 - Log the outputs of lexicase selection (number of ties, number of selections)
-- Make sure that DE selection is without replacement
 - undestand better the polinomial mutation implementation
+  (based on the polinomial mutation implemented in DEAP)
